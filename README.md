@@ -2,7 +2,7 @@
 
 Consists of UI test cases using SitePrism, RSpec, chromedriver, Selenium and Capybara
 
-# RSpec tests on home page, our solution page, and iPrevail page.
+## RSpec tests on home page, our solution page, and iPrevail page.
 
 * Test navbar menu links are redirecting properly.
 * Test Prevail Health program links.
@@ -25,4 +25,5 @@ gem 'chromedriver-helper'
 
 ## Trello
 
-Link to [Prevail Health Trello ](https://trello.com/b/hF6bZXSo/prevail-health)
+* Link to [Prevail Health Trello ](https://trello.com/b/hF6bZXSo/prevail-health)
+* consists of all QA bugs and improvements found.
